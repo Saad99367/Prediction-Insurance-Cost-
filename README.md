@@ -46,34 +46,7 @@ The model is trained using:
 - NumPy
 - Joblib
 
----
 
-## 📂 Project Structure\project/
-│
-├── insurance_model.pkl
-├── poly.pkl
-├── app.py
-├── README.md
-└── dataset.csv
-
-
-
-
----
-
-## ▶️ How to Run
-
-### 1️⃣ Install dependencies
-
-```bash
-pip install streamlit scikit-learn numpy joblib
-
-2️⃣ Run the app
-streamlit run insurance.py
-
-
-📸 Demo
-<img width="1715" height="934" alt="image" src="https://github.com/user-attachments/assets/45686598-e68e-4591-83cb-fe98e46636b9" />
 
 
 
